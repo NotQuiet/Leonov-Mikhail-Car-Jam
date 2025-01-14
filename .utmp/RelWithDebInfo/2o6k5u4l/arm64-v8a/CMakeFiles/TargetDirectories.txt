@@ -1,0 +1,5 @@
+C:/Users/Mikhail/Car Jam/CarJam/Leonov-Mikhail-Car-Jam/.utmp/RelWithDebInfo/2o6k5u4l/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Mikhail/Car Jam/CarJam/Leonov-Mikhail-Car-Jam/.utmp/RelWithDebInfo/2o6k5u4l/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/Mikhail/Car Jam/CarJam/Leonov-Mikhail-Car-Jam/.utmp/RelWithDebInfo/2o6k5u4l/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/Mikhail/Car Jam/CarJam/Leonov-Mikhail-Car-Jam/.utmp/RelWithDebInfo/2o6k5u4l/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/Mikhail/Car Jam/CarJam/Leonov-Mikhail-Car-Jam/.utmp/RelWithDebInfo/2o6k5u4l/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

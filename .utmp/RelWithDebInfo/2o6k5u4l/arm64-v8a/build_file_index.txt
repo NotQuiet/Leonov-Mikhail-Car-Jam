@@ -1,0 +1,2 @@
+C:\Users\Mikhail\Car Jam\CarJam\Leonov-Mikhail-Car-Jam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\Mikhail\Car Jam\CarJam\Leonov-Mikhail-Car-Jam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

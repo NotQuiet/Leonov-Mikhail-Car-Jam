@@ -1,0 +1,10 @@
+# ninja log v5
+234	878	7585644528357421	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	93e814cca64c8777
+0	923	7585644528819539	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	6b54714cbe0ac68a
+241	940	7585644528999443	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	6d429768867e5807
+237	943	7585644529015217	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	600c5f929019326b
+246	1011	7585644529710362	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	153d1dffdd0c2970
+226	1047	7585644530066295	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	2cea6c06f17b679d
+231	1193	7585644531539736	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	f962a7df395d2f4c
+228	1271	7585644532298971	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	3eedfa647a796bea
+1272	1702	7585644536578268	C:/Users/Mikhail/Car Jam/CarJam/Leonov-Mikhail-Car-Jam/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2o6k5u4l/obj/arm64-v8a/libgame.so	ed074c1f98e1a9ec
